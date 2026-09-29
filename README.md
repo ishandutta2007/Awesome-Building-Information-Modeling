@@ -219,3 +219,5 @@ Star the repo if you find it useful!
 **Made for architects, engineers, contractors, BIM managers, and AEC technologists.**  
 
 Let's make BIM collaboration more open, transparent, and interoperable.
+# Awesome-Building-Information-Modeling
+
