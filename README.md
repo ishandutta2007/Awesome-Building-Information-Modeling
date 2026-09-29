@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Building-Information-Modeling/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Building-Information-Modeling?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Building-Information-Modeling/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Building-Information-Modeling?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Building-Information-Modeling/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Building-Information-Modeling?style=flat-square&logo=github" alt="GitHub Forks"/></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Building-Information-Modeling/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Building-Information-Modeling?style=flat-square&logo=github" alt="Last Commit"/></a>
@@ -54,51 +54,51 @@ The following SaaS platforms enable cloud design co-authoring, automated clash d
 
 ## 🔓 Open-Source GitHub Projects
 
-Open-source projects provide vendor-independent IFC parsing engines, WebGL/WebGPU 3D viewers, parametric modelers, and real-time CRDT collaboration layers. Sorted by **GitHub Star Count** (descending).
+Open-source projects provide vendor-independent IFC parsing engines, WebGL/WebGPU 3D viewers, parametric modelers, and real-time CRDT collaboration layers. Sorted by **GitHub Stars_Count** (descending).
 
-- **[FreeCAD BIM Workbench](https://github.com/FreeCAD/FreeCAD)** [![GitHub stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)  
+- **[FreeCAD BIM Workbench](https://github.com/FreeCAD/FreeCAD)** [![GitHub_Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)  
   *Free, open-source parametric 3D CAD modeling software with native IFC import/export, structural framing, reinforcement tools, and architectural BIM workbench.* 🛠️
 
-- **[OpenProject BIM](https://github.com/opf/openproject)** [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
+- **[OpenProject BIM](https://github.com/opf/openproject)** [![GitHub_Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
   *Web-based open-source construction project management suite featuring integrated 3D IFC model viewing, BCF issue management, and Revit workflow integration.* 📋
 
-- **[Online 3D Viewer](https://github.com/kovacsv/Online3DViewer)** [![GitHub stars](https://img.shields.io/github/stars/kovacsv/Online3DViewer?style=social&color=white)](https://github.com/kovacsv/Online3DViewer/stargazers)  
+- **[Online 3D Viewer](https://github.com/kovacsv/Online3DViewer)** [![GitHub_Stars](https://img.shields.io/github/stars/kovacsv/Online3DViewer?style=social&color=white)](https://github.com/kovacsv/Online3DViewer/stargazers)  
   *Zero-dependency browser 3D model viewer supporting IFC, BIM, STEP, STL, OBJ, glTF, and 3DM formats with instant geometry rendering and format export.* 👁️
 
-- **[Trimesh](https://github.com/mikedh/trimesh)** [![GitHub stars](https://img.shields.io/github/stars/mikedh/trimesh?style=social&color=white)](https://github.com/mikedh/trimesh/stargazers)  
+- **[Trimesh](https://github.com/mikedh/trimesh)** [![GitHub_Stars](https://img.shields.io/github/stars/mikedh/trimesh?style=social&color=white)](https://github.com/mikedh/trimesh/stargazers)  
   *Pure Python library for loading, processing, and inspecting 3D triangular meshes with geometric analysis, boolean operations, and IFC mesh extraction.* 🐍
 
-- **[IfcOpenShell / Bonsai](https://github.com/IfcOpenShell/IfcOpenShell)** [![GitHub stars](https://img.shields.io/github/stars/IfcOpenShell/IfcOpenShell?style=social&color=white)](https://github.com/IfcOpenShell/IfcOpenShell/stargazers)  
+- **[IfcOpenShell / Bonsai](https://github.com/IfcOpenShell/IfcOpenShell)** [![GitHub_Stars](https://img.shields.io/github/stars/IfcOpenShell/IfcOpenShell?style=social&color=white)](https://github.com/IfcOpenShell/IfcOpenShell/stargazers)  
   *The de-facto open-source IFC C++ and Python framework powering native IFC authoring via Bonsai (Blender add-on), IfcConvert, IfcClash, IfcCSV, and IfcTester.* 🌳
 
-- **[BIMserver](https://github.com/opensourceBIM/BIMserver)** [![GitHub stars](https://img.shields.io/github/stars/opensourceBIM/BIMserver?style=social&color=white)](https://github.com/opensourceBIM/BIMserver/stargazers)  
+- **[BIMserver](https://github.com/opensourceBIM/BIMserver)** [![GitHub_Stars](https://img.shields.io/github/stars/opensourceBIM/BIMserver?style=social&color=white)](https://github.com/opensourceBIM/BIMserver/stargazers)  
   *Model-driven open-source BIM database server enabling storage, querying, merging, checking, and object-level version control for IFC construction data.* 🗄️
 
-- **[web-ifc / That Open Engine](https://github.com/ThatOpen/engine_web-ifc)** [![GitHub stars](https://img.shields.io/github/stars/ThatOpen/engine_web-ifc?style=social&color=white)](https://github.com/ThatOpen/engine_web-ifc/stargazers)  
+- **[web-ifc / That Open Engine](https://github.com/ThatOpen/engine_web-ifc)** [![GitHub_Stars](https://img.shields.io/github/stars/ThatOpen/engine_web-ifc?style=social&color=white)](https://github.com/ThatOpen/engine_web-ifc/stargazers)  
   *High-speed JavaScript/WASM IFC parsing engine by That Open Company, parsing IFC model geometry and properties client-side directly into Three.js.* ⚡
 
-- **[OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP)** [![GitHub stars](https://img.shields.io/github/stars/datadrivenconstruction/OpenConstructionERP?style=social&color=white)](https://github.com/datadrivenconstruction/OpenConstructionERP/stargazers)  
+- **[OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP)** [![GitHub_Stars](https://img.shields.io/github/stars/datadrivenconstruction/OpenConstructionERP?style=social&color=white)](https://github.com/datadrivenconstruction/OpenConstructionERP/stargazers)  
   *Independent open-source ERP for construction with browser federated 3D BIM viewer, automated clash detection with BCF export, and BOQ estimation.* 🏗️
 
-- **[Speckle Server](https://github.com/specklesystems/speckle-server)** [![GitHub stars](https://img.shields.io/github/stars/specklesystems/speckle-server?style=social&color=white)](https://github.com/specklesystems/speckle-server/stargazers)  
+- **[Speckle Server](https://github.com/specklesystems/speckle-server)** [![GitHub_Stars](https://img.shields.io/github/stars/specklesystems/speckle-server?style=social&color=white)](https://github.com/specklesystems/speckle-server/stargazers)  
   *Open-source object-based data platform for AEC geometry, providing Git-like versioning, GraphQL APIs, and real-time connectors for Revit, Rhino, and Grasshopper.* 🔄
 
-- **[xeokit-bim-viewer](https://github.com/xeokit/xeokit-bim-viewer)** [![GitHub stars](https://img.shields.io/github/stars/xeokit/xeokit-bim-viewer?style=social&color=white)](https://github.com/xeokit/xeokit-bim-viewer/stargazers)  
+- **[xeokit-bim-viewer](https://github.com/xeokit/xeokit-bim-viewer)** [![GitHub_Stars](https://img.shields.io/github/stars/xeokit/xeokit-bim-viewer?style=social&color=white)](https://github.com/xeokit/xeokit-bim-viewer/stargazers)  
   *Production-grade 3D WebGL BIM and point cloud viewer built on xeokit SDK, featuring double-precision coordinates for AEC/GIS split-model rendering.* 📐
 
-- **[ifc-lite](https://github.com/LTplus-AG/ifc-lite)** [![GitHub stars](https://img.shields.io/github/stars/LTplus-AG/ifc-lite?style=social&color=white)](https://github.com/LTplus-AG/ifc-lite/stargazers)  
+- **[ifc-lite](https://github.com/LTplus-AG/ifc-lite)** [![GitHub_Stars](https://img.shields.io/github/stars/LTplus-AG/ifc-lite?style=social&color=white)](https://github.com/LTplus-AG/ifc-lite/stargazers)  
   *Rust + WASM engine for fast IFC parsing, WebGPU browser rendering, SQL DuckDB queries, and CRDT-based multi-user concurrent model editing.* 🦀
 
-- **[Bldrs Share](https://github.com/bldrs-ai/Share)** [![GitHub stars](https://img.shields.io/github/stars/bldrs-ai/Share?style=social&color=white)](https://github.com/bldrs-ai/Share/stargazers)  
+- **[Bldrs Share](https://github.com/bldrs-ai/Share)** [![GitHub_Stars](https://img.shields.io/github/stars/bldrs-ai/Share?style=social&color=white)](https://github.com/bldrs-ai/Share/stargazers)  
   *Browser BIM & CAD viewer with zero data upload, offline local loading, property editing, CSV export, and multi-user Git timeline collaboration.* 🌐
 
-- **[GomeraX](https://github.com/salpbes/GomeraX)** [![GitHub stars](https://img.shields.io/github/stars/salpbes/GomeraX?style=social&color=white)](https://github.com/salpbes/GomeraX/stargazers)  
+- **[GomeraX](https://github.com/salpbes/GomeraX)** [![GitHub_Stars](https://img.shields.io/github/stars/salpbes/GomeraX?style=social&color=white)](https://github.com/salpbes/GomeraX/stargazers)  
   *Experimental WebGPU IFC viewer with local AI assistant, IFC Fragment conversion, 2D floor plan rendering, and automatic site coordinate alignment.* 🤖
 
-- **[Open Planner Studio](https://github.com/OpenAEC-Foundation/open-planner-studio)** [![GitHub stars](https://img.shields.io/github/stars/OpenAEC-Foundation/open-planner-studio?style=social&color=white)](https://github.com/OpenAEC-Foundation/open-planner-studio/stargazers)  
+- **[Open Planner Studio](https://github.com/OpenAEC-Foundation/open-planner-studio)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenAEC-Foundation/open-planner-studio?style=social&color=white)](https://github.com/OpenAEC-Foundation/open-planner-studio/stargazers)  
   *Open-source 4D BIM construction planning tool supporting native IFC 4.3 models, Gantt charts, CPM path analysis, and Work Breakdown Structures.* 📅
 
-- **[ConvergeStudio](https://github.com/wieslawsoltes/ConvergeStudio)** [![GitHub stars](https://img.shields.io/github/stars/wieslawsoltes/ConvergeStudio?style=social&color=white)](https://github.com/wieslawsoltes/ConvergeStudio/stargazers)  
+- **[ConvergeStudio](https://github.com/wieslawsoltes/ConvergeStudio)** [![GitHub_Stars](https://img.shields.io/github/stars/wieslawsoltes/ConvergeStudio?style=social&color=white)](https://github.com/wieslawsoltes/ConvergeStudio/stargazers)  
   *Browser-based BIM coordination and clash detection tool with micrometre epsilon precision, section planes, and stable entity-pair status tracking.* 🎯
 
 ---
