@@ -54,7 +54,7 @@ The following SaaS platforms enable cloud design co-authoring, automated clash d
 
 ## 🔓 Open-Source GitHub Projects
 
-Open-source projects provide vendor-independent IFC parsing engines, WebGL/WebGPU 3D viewers, parametric modelers, and real-time CRDT collaboration layers. Sorted by **GitHub Stars_Count** (descending).
+Open-source projects provide vendor-independent IFC parsing engines, WebGL/WebGPU 3D viewers, parametric modelers, and real-time CRDT collaboration layers. Sorted by **GitHub_Stars_Count** (descending).
 
 - **[FreeCAD BIM Workbench](https://github.com/FreeCAD/FreeCAD)** [![GitHub_Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers)  
   *Free, open-source parametric 3D CAD modeling software with native IFC import/export, structural framing, reinforcement tools, and architectural BIM workbench.* 🛠️
